@@ -1,4 +1,4 @@
-package com.smurygin.treads;
+package com.smurygin.ocjp.treads;
 
 /**
  * Created by dfyz on 9/19/14.
